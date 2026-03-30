@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🚀 About Me<br><br>🔭 I’m currently working on  <br>- Java projects and improving DSA problem-solving  <br><br>👯 I’m looking to collaborate on  <br>- Java backend projects and beginner-friendly open source  <br><br>🤝 I’m looking for help with  <br>- Backend development (Spring Boot, APIs)  <br><br>🌱 I’m currently learning  <br>- Data Structures & Algorithms  <br>- Java Backend Development  <br><br>💬 Ask me about  <br>- Java, basic programming, and problem-solving  <br><br>⚡ Fun fact  <br>- Trying to stay consistent and level up every day
+🔭 I’m currently working on  <br>- Java projects and improving DSA problem-solving  <br><br>👯 I’m looking to collaborate on  <br>- Java backend projects and beginner-friendly open source  <br><br>🤝 I’m looking for help with  <br>- Backend development (Spring Boot, APIs)  <br><br>🌱 I’m currently learning  <br>- Data Structures & Algorithms  <br>- Java Backend Development  <br><br>💬 Ask me about  <br>- Java, basic programming, and problem-solving  <br><br>⚡ Fun fact  <br>- Trying to stay consistent and level up every day
 
 
 ## 🌐 Socials:
